@@ -137,7 +137,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="res\shaders\Shader.cpp" />
     <ClCompile Include="Source\Application.cpp" />
   </ItemGroup>
   <ItemGroup>
